@@ -1,19 +1,19 @@
 # Site settings
 
-title: Powerful New Theme for GitHub Pages | OpenTheme.co
-tagline: ABCDEF Amazing Websites and Hybrid Apps. Speedily!
-email: sehgal.manav@gmail.com
-copyright: Manav Sehgal
-keywords: open theme, github pages, semantic ui, single page apps
+title: The Hurrells on the Web | www.hurrells.ca
+tagline: 
+email: hurrells@hurrells.ca
+copyright: 
+keywords: hurrells.ca, open theme, github pages, semantic ui, single page apps
 
 description: > # this means to ignore newlines until "url:". One indent required.
   Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "http://hurrells.ca"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: hurrells
+github_username:  hurrells-ca
 
 default_image: /img/opentheme-workflow.png
 
